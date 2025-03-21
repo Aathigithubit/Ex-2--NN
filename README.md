@@ -155,7 +155,7 @@ plt.show()
 ![images](./images/scatter.png)
 ### Accuracy & Errors vs Epochs
 ![images](./images/accuracy.png)
-    ''' Show your result '''
+    
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
